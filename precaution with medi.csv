@@ -1,0 +1,350 @@
+,Disease,Fever,Cough,Fatigue,Difficulty Breathing,Age,Gender,Blood Pressure,Cholesterol Level,Outcome Variable,Medicine Suggestion
+0,Influenza,Yes,No,Yes,Yes,19,Female,Low,Normal,Positive,Oseltamivir
+1,Common Cold,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,"Acetaminophen, Decongestants"
+2,Eczema,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,"Topical Corticosteroids, Emollients"
+3,Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive,"Inhaled Corticosteroids, Bronchodilators"
+4,Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive,"Inhaled Corticosteroids, Bronchodilators"
+5,Eczema,Yes,No,No,No,25,Female,Normal,Normal,Positive,"Topical Corticosteroids, Emollients"
+6,Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive,Oseltamivir
+7,Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive,Oseltamivir
+8,Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative,Consult a healthcare provider
+9,Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative,Consult a healthcare provider
+10,Asthma,Yes,No,No,Yes,28,Male,High,Normal,Positive,"Inhaled Corticosteroids, Bronchodilators"
+11,Allergic Rhinitis,No,Yes,Yes,No,29,Female,Normal,Low,Negative,Consult a healthcare provider
+12,Anxiety Disorders,No,Yes,No,No,29,Female,Normal,High,Negative,Consult a healthcare provider
+13,Common Cold,No,No,No,No,29,Female,Low,Normal,Negative,"Acetaminophen, Decongestants"
+14,Diabetes,No,No,No,No,29,Male,Low,Normal,Negative,Consult a healthcare provider
+15,Gastroenteritis,No,Yes,No,No,29,Female,Normal,Normal,Negative,Consult a healthcare provider
+16,Pancreatitis,Yes,No,No,No,29,Female,High,Normal,Negative,Consult a healthcare provider
+17,Rheumatoid Arthritis,No,Yes,Yes,Yes,29,Female,High,High,Negative,Consult a healthcare provider
+18,Depression,Yes,Yes,Yes,Yes,29,Male,High,Normal,Positive,Consult a healthcare provider
+19,Liver Cancer,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,Consult a healthcare provider
+20,Stroke,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,Consult a healthcare provider
+21,Urinary Tract Infection,Yes,Yes,Yes,No,29,Male,High,High,Positive,Consult a healthcare provider
+22,Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative,Consult a healthcare provider
+23,Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative,Consult a healthcare provider
+24,Eczema,No,Yes,Yes,No,30,Male,High,High,Negative,"Topical Corticosteroids, Emollients"
+25,Gastroenteritis,Yes,Yes,Yes,No,30,Male,High,High,Negative,Consult a healthcare provider
+26,Hepatitis,Yes,Yes,Yes,Yes,30,Male,High,Normal,Negative,Consult a healthcare provider
+27,Kidney Cancer,No,No,Yes,No,30,Male,Normal,Normal,Negative,Consult a healthcare provider
+28,Migraine,Yes,No,No,No,30,Female,Normal,Normal,Negative,Consult a healthcare provider
+29,Migraine,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,Consult a healthcare provider
+30,Muscular Dystrophy,No,No,Yes,No,30,Male,High,High,Negative,Consult a healthcare provider
+31,Sinusitis,No,Yes,Yes,No,30,Male,Normal,Normal,Negative,Consult a healthcare provider
+32,Ulcerative Colitis,Yes,Yes,No,No,30,Female,Normal,Normal,Negative,Consult a healthcare provider
+33,Ulcerative Colitis,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,Consult a healthcare provider
+34,Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive,"Inhaled Corticosteroids, Bronchodilators"
+35,Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive,"Inhaled Corticosteroids, Bronchodilators"
+36,Asthma,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,"Inhaled Corticosteroids, Bronchodilators"
+37,Bipolar Disorder,No,No,Yes,No,30,Female,High,High,Positive,Consult a healthcare provider
+38,Bronchitis,Yes,Yes,No,Yes,30,Female,Low,Normal,Positive,Consult a healthcare provider
+39,Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive,Consult a healthcare provider
+40,Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive,Consult a healthcare provider
+41,Cerebral Palsy,No,No,Yes,Yes,30,Female,Normal,Normal,Positive,Consult a healthcare provider
+42,Colorectal Cancer,No,No,Yes,No,30,Female,Normal,High,Positive,Consult a healthcare provider
+43,Eczema,Yes,No,No,No,30,Male,High,High,Positive,"Topical Corticosteroids, Emollients"
+44,Hypertensive Heart Disease,No,No,Yes,No,30,Female,High,High,Positive,Consult a healthcare provider
+45,Influenza,Yes,Yes,Yes,No,30,Male,High,Normal,Positive,Oseltamivir
+46,Influenza,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,Oseltamivir
+47,Multiple Sclerosis,No,No,Yes,No,30,Female,High,High,Positive,Consult a healthcare provider
+48,Myocardial Infarction (Heart...,Yes,Yes,Yes,Yes,30,Female,High,High,Positive,Consult a healthcare provider
+49,Urinary Tract Infection (UTI),Yes,No,No,No,30,Female,Normal,Normal,Positive,Consult a healthcare provider
+50,Asthma,No,No,No,Yes,31,Male,Normal,Low,Negative,"Inhaled Corticosteroids, Bronchodilators"
+51,Osteoporosis,No,No,No,Yes,31,Male,Low,Normal,Negative,Consult a healthcare provider
+52,Common Cold,Yes,No,Yes,Yes,31,Male,High,High,Positive,"Acetaminophen, Decongestants"
+53,Migraine,Yes,No,No,No,31,Female,Normal,Normal,Positive,Consult a healthcare provider
+54,Pneumonia,Yes,No,Yes,Yes,32,Female,High,Normal,Positive,Consult a healthcare provider
+55,Allergic Rhinitis,No,No,Yes,No,35,Female,Normal,Low,Negative,Consult a healthcare provider
+56,Asthma,No,Yes,Yes,Yes,35,Female,Normal,High,Negative,"Inhaled Corticosteroids, Bronchodilators"
+57,Asthma,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,"Inhaled Corticosteroids, Bronchodilators"
+58,Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative,"Inhaled Corticosteroids, Bronchodilators"
+59,Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative,"Inhaled Corticosteroids, Bronchodilators"
+60,Atherosclerosis,No,No,Yes,No,35,Male,Normal,Normal,Negative,Consult a healthcare provider
+61,Chronic Obstructive Pulmonary...,Yes,Yes,Yes,Yes,35,Male,Normal,Normal,Negative,Consult a healthcare provider
+62,Common Cold,Yes,Yes,Yes,No,35,Male,High,Normal,Negative,"Acetaminophen, Decongestants"
+63,Eczema,No,Yes,No,No,35,Male,High,Normal,Negative,"Topical Corticosteroids, Emollients"
+64,Epilepsy,No,No,Yes,No,35,Male,High,High,Negative,Consult a healthcare provider
+65,Hypertension,Yes,Yes,Yes,No,35,Female,High,Normal,Negative,Consult a healthcare provider
+66,Hyperthyroidism,Yes,Yes,Yes,No,35,Female,Normal,Normal,Negative,Consult a healthcare provider
+67,Obsessive-Compulsive Disorde...,No,No,Yes,No,35,Male,Normal,Normal,Negative,Consult a healthcare provider
+68,Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,Consult a healthcare provider
+69,Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,Consult a healthcare provider
+70,Psoriasis,Yes,No,No,No,35,Female,Normal,Low,Negative,Consult a healthcare provider
+71,Psoriasis,No,Yes,Yes,No,35,Female,Normal,Low,Negative,Consult a healthcare provider
+72,Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative,Consult a healthcare provider
+73,Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative,Consult a healthcare provider
+74,Urinary Tract Infection (UTI),No,Yes,Yes,No,35,Male,High,High,Negative,Consult a healthcare provider
+75,Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive,"Inhaled Corticosteroids, Bronchodilators"
+76,Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive,"Inhaled Corticosteroids, Bronchodilators"
+77,Cirrhosis,No,No,Yes,No,35,Female,Normal,High,Positive,Consult a healthcare provider
+78,Conjunctivitis (Pink Eye),No,Yes,No,No,35,Female,High,High,Positive,Consult a healthcare provider
+79,Depression,No,No,Yes,No,35,Female,Normal,High,Positive,Consult a healthcare provider
+80,Gastroenteritis,Yes,No,Yes,Yes,35,Male,Low,High,Positive,Consult a healthcare provider
+81,Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive,Consult a healthcare provider
+82,Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive,Consult a healthcare provider
+83,Kidney Cancer,No,No,Yes,No,35,Male,High,High,Positive,Consult a healthcare provider
+84,Liver Cancer,No,No,Yes,No,35,Female,High,High,Positive,Consult a healthcare provider
+85,Liver Disease,No,No,Yes,No,35,Male,High,High,Positive,Consult a healthcare provider
+86,Malaria,Yes,No,No,No,35,Male,High,High,Positive,Consult a healthcare provider
+87,Malaria,Yes,No,No,No,35,Male,High,High,Positive,Consult a healthcare provider
+88,Migraine,No,Yes,Yes,No,35,Male,High,High,Positive,Consult a healthcare provider
+89,Migraine,Yes,No,No,No,35,Male,High,High,Positive,Consult a healthcare provider
+90,Pancreatitis,No,No,Yes,No,35,Male,Normal,High,Positive,Consult a healthcare provider
+91,Rheumatoid Arthritis,Yes,Yes,Yes,No,35,Male,Normal,Low,Positive,Consult a healthcare provider
+92,Rheumatoid Arthritis,No,No,Yes,No,35,Female,Normal,Low,Positive,Consult a healthcare provider
+93,Spina Bifida,No,No,Yes,No,35,Female,Normal,Normal,Positive,Consult a healthcare provider
+94,Ulcerative Colitis,No,No,Yes,No,35,Male,High,High,Positive,Consult a healthcare provider
+95,Ulcerative Colitis,Yes,No,No,No,35,Male,High,High,Positive,Consult a healthcare provider
+96,Urinary Tract Infection,Yes,No,Yes,No,35,Female,Normal,High,Positive,Consult a healthcare provider
+97,Allergic Rhinitis,No,Yes,No,No,38,Female,Low,Normal,Negative,Consult a healthcare provider
+98,Depression,No,No,No,No,38,Female,Normal,High,Negative,Consult a healthcare provider
+99,Gastroenteritis,No,No,No,No,38,Male,Normal,Low,Negative,Consult a healthcare provider
+100,Influenza,No,No,No,No,38,Male,Normal,Normal,Negative,Oseltamivir
+101,Kidney Disease,No,No,Yes,No,38,Female,Low,Normal,Negative,Consult a healthcare provider
+102,Liver Cancer,Yes,Yes,No,No,38,Female,High,Normal,Negative,Consult a healthcare provider
+103,Liver Disease,No,Yes,No,Yes,38,Male,Low,Normal,Negative,Consult a healthcare provider
+104,Osteoporosis,No,Yes,No,No,38,Female,Normal,High,Negative,Consult a healthcare provider
+105,Stroke,Yes,Yes,No,No,38,Female,High,Normal,Negative,Consult a healthcare provider
+106,Anxiety Disorders,Yes,No,Yes,Yes,38,Male,High,High,Positive,Consult a healthcare provider
+107,Diabetes,Yes,No,Yes,Yes,38,Male,High,Low,Positive,Consult a healthcare provider
+108,Migraine,Yes,Yes,No,No,38,Male,High,High,Positive,Consult a healthcare provider
+109,Osteoarthritis,Yes,Yes,Yes,No,38,Male,High,High,Positive,Consult a healthcare provider
+110,Pneumonia,Yes,Yes,Yes,Yes,38,Male,Normal,Normal,Positive,Consult a healthcare provider
+111,Klinefelter Syndrome,No,No,Yes,No,39,Female,Normal,Normal,Positive,Consult a healthcare provider
+112,Acne,No,No,Yes,No,40,Male,Normal,Normal,Negative,Consult a healthcare provider
+113,Brain Tumor,No,No,Yes,No,40,Male,Normal,Normal,Negative,Consult a healthcare provider
+114,Bronchitis,No,Yes,No,Yes,40,Female,Normal,Normal,Negative,Consult a healthcare provider
+115,Cystic Fibrosis,No,No,Yes,Yes,40,Male,High,High,Negative,Consult a healthcare provider
+116,Diabetes,Yes,No,No,No,40,Female,High,High,Negative,Consult a healthcare provider
+117,Glaucoma,No,No,Yes,No,40,Male,High,Normal,Negative,Consult a healthcare provider
+118,Osteoarthritis,No,No,Yes,No,40,Male,High,Normal,Negative,Consult a healthcare provider
+119,Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative,Consult a healthcare provider
+120,Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative,Consult a healthcare provider
+121,Asthma,Yes,No,Yes,No,40,Male,Low,Normal,Positive,"Inhaled Corticosteroids, Bronchodilators"
+122,Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive,"Inhaled Corticosteroids, Bronchodilators"
+123,Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive,"Inhaled Corticosteroids, Bronchodilators"
+124,Asthma,No,No,Yes,Yes,40,Male,High,High,Positive,"Inhaled Corticosteroids, Bronchodilators"
+125,Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive,"Inhaled Corticosteroids, Bronchodilators"
+126,Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive,"Inhaled Corticosteroids, Bronchodilators"
+127,Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive,Consult a healthcare provider
+128,Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive,Consult a healthcare provider
+129,Coronary Artery Disease,No,No,Yes,No,40,Female,High,High,Positive,Consult a healthcare provider
+130,"Eating Disorders (Anorexia,...",No,No,Yes,No,40,Female,High,High,Positive,Consult a healthcare provider
+131,Fibromyalgia,No,No,Yes,No,40,Female,High,High,Positive,Consult a healthcare provider
+132,Gastroenteritis,Yes,Yes,Yes,No,40,Male,High,High,Positive,Consult a healthcare provider
+133,Hemophilia,No,No,Yes,No,40,Female,Normal,Normal,Positive,Consult a healthcare provider
+134,Hyperthyroidism,No,No,Yes,No,40,Male,High,High,Positive,Consult a healthcare provider
+135,Hypoglycemia,No,No,Yes,No,40,Female,High,High,Positive,Consult a healthcare provider
+136,Lymphoma,No,Yes,No,No,40,Female,Normal,High,Positive,Consult a healthcare provider
+137,Pneumonia,Yes,Yes,Yes,Yes,40,Female,Normal,High,Positive,Consult a healthcare provider
+138,Psoriasis,No,Yes,Yes,No,40,Male,High,Normal,Positive,Consult a healthcare provider
+139,Psoriasis,Yes,No,No,No,40,Male,High,Normal,Positive,Consult a healthcare provider
+140,Psoriasis,No,Yes,No,No,40,Female,Normal,High,Positive,Consult a healthcare provider
+141,Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive,Consult a healthcare provider
+142,Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive,Consult a healthcare provider
+143,Anxiety Disorders,No,No,No,No,42,Male,Low,Normal,Negative,Consult a healthcare provider
+144,Common Cold,Yes,Yes,No,No,42,Female,High,High,Negative,"Acetaminophen, Decongestants"
+145,Depression,Yes,No,No,Yes,42,Male,High,Normal,Negative,Consult a healthcare provider
+146,Influenza,No,Yes,No,No,42,Female,Normal,High,Negative,Oseltamivir
+147,Kidney Cancer,Yes,No,No,No,42,Female,Normal,Normal,Negative,Consult a healthcare provider
+148,Liver Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,Consult a healthcare provider
+149,Liver Disease,Yes,No,No,Yes,42,Female,Normal,Normal,Negative,Consult a healthcare provider
+150,Lung Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,Consult a healthcare provider
+151,Migraine,Yes,Yes,Yes,No,42,Male,High,High,Negative,Consult a healthcare provider
+152,Osteoarthritis,No,No,Yes,No,42,Male,Normal,Low,Negative,Consult a healthcare provider
+153,Stroke,Yes,No,Yes,No,42,Male,Normal,Low,Negative,Consult a healthcare provider
+154,Urinary Tract Infection,No,Yes,Yes,Yes,42,Female,Normal,Low,Negative,Consult a healthcare provider
+155,Diabetes,Yes,Yes,Yes,No,42,Male,High,Normal,Positive,Consult a healthcare provider
+156,Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive,Consult a healthcare provider
+157,Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive,Consult a healthcare provider
+158,Kidney Disease,Yes,No,Yes,No,42,Female,High,Low,Positive,Consult a healthcare provider
+159,Pneumonia,No,Yes,Yes,Yes,43,Female,High,Normal,Positive,Consult a healthcare provider
+160,Allergic Rhinitis,No,Yes,Yes,No,45,Male,High,Normal,Negative,Consult a healthcare provider
+161,Autism Spectrum Disorder (ASD),No,No,Yes,No,45,Male,Normal,Normal,Negative,Consult a healthcare provider
+162,Crohn's Disease,Yes,No,Yes,No,45,Male,High,Normal,Negative,Consult a healthcare provider
+163,Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative,Consult a healthcare provider
+164,Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative,Consult a healthcare provider
+165,Hyperglycemia,No,No,Yes,No,45,Male,Normal,Normal,Negative,Consult a healthcare provider
+166,Kidney Cancer,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,Consult a healthcare provider
+167,Kidney Disease,Yes,Yes,No,No,45,Male,Normal,High,Negative,Consult a healthcare provider
+168,Melanoma,Yes,No,Yes,No,45,Male,High,Normal,Negative,Consult a healthcare provider
+169,Migraine,No,No,No,No,45,Female,Low,Normal,Negative,Consult a healthcare provider
+170,Ovarian Cancer,No,No,Yes,No,45,Male,Normal,Normal,Negative,Consult a healthcare provider
+171,Pancreatitis,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,Consult a healthcare provider
+172,Rheumatoid Arthritis,Yes,No,No,No,45,Male,Normal,Normal,Negative,Consult a healthcare provider
+173,Stroke,No,No,Yes,No,45,Male,Normal,Normal,Negative,Consult a healthcare provider
+174,Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative,Consult a healthcare provider
+175,Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative,Consult a healthcare provider
+176,Urinary Tract Infection,No,No,No,No,45,Female,Low,Normal,Negative,Consult a healthcare provider
+177,Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative,Consult a healthcare provider
+178,Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative,Consult a healthcare provider
+179,Allergic Rhinitis,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,Consult a healthcare provider
+180,Anxiety Disorders,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,Consult a healthcare provider
+181,Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive,"Inhaled Corticosteroids, Bronchodilators"
+182,Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive,"Inhaled Corticosteroids, Bronchodilators"
+183,Cataracts,No,No,Yes,No,45,Female,Normal,High,Positive,Consult a healthcare provider
+184,Crohn's Disease,No,No,Yes,No,45,Female,High,High,Positive,Consult a healthcare provider
+185,Crohn's Disease,Yes,Yes,Yes,No,45,Female,High,High,Positive,Consult a healthcare provider
+186,Depression,No,No,Yes,No,45,Female,High,High,Positive,Consult a healthcare provider
+187,Diabetes,Yes,No,Yes,No,45,Female,High,High,Positive,Consult a healthcare provider
+188,Diabetes,No,Yes,Yes,No,45,Male,Normal,High,Positive,Consult a healthcare provider
+189,Hypertension,Yes,No,Yes,No,45,Male,Normal,High,Positive,Consult a healthcare provider
+190,Hypothyroidism,No,No,Yes,No,45,Female,High,High,Positive,Consult a healthcare provider
+191,Liver Disease,Yes,Yes,Yes,No,45,Female,Normal,High,Positive,Consult a healthcare provider
+192,Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive,Consult a healthcare provider
+193,Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive,Consult a healthcare provider
+194,Osteoarthritis,Yes,No,Yes,Yes,45,Male,High,Normal,Positive,Consult a healthcare provider
+195,Osteoporosis,Yes,Yes,Yes,No,45,Female,Normal,High,Positive,Consult a healthcare provider
+196,Pneumocystis Pneumonia (PCP),Yes,Yes,Yes,No,45,Female,High,High,Positive,Consult a healthcare provider
+197,Pneumonia,Yes,Yes,Yes,Yes,45,Male,High,High,Positive,Consult a healthcare provider
+198,Scoliosis,No,No,No,No,45,Female,High,High,Positive,Consult a healthcare provider
+199,Sickle Cell Anemia,No,No,Yes,No,45,Female,Normal,Normal,Positive,Consult a healthcare provider
+200,Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive,Consult a healthcare provider
+201,Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive,Consult a healthcare provider
+202,Hypertension,No,No,No,No,48,Female,Low,High,Negative,Consult a healthcare provider
+203,Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative,Consult a healthcare provider
+204,Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative,Consult a healthcare provider
+205,Allergic Rhinitis,Yes,No,No,No,50,Male,High,High,Negative,Consult a healthcare provider
+206,Anemia,No,No,Yes,No,50,Male,Normal,Normal,Negative,Consult a healthcare provider
+207,Anxiety Disorders,No,No,Yes,No,50,Male,Normal,Normal,Negative,Consult a healthcare provider
+208,Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative,Consult a healthcare provider
+209,Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative,Consult a healthcare provider
+210,Crohn's Disease,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,Consult a healthcare provider
+211,Crohn's Disease,No,No,Yes,No,50,Male,Normal,High,Negative,Consult a healthcare provider
+212,Depression,No,Yes,Yes,No,50,Female,Low,Low,Negative,Consult a healthcare provider
+213,Diabetes,No,Yes,No,No,50,Male,Normal,High,Negative,Consult a healthcare provider
+214,Endometriosis,Yes,No,No,No,50,Male,High,Normal,Negative,Consult a healthcare provider
+215,Hypertension,No,Yes,No,No,50,Female,Normal,Low,Negative,Consult a healthcare provider
+216,Hypothyroidism,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,Consult a healthcare provider
+217,Kidney Cancer,No,Yes,No,No,50,Male,Low,High,Negative,Consult a healthcare provider
+218,Kidney Disease,No,Yes,No,Yes,50,Male,Normal,Normal,Negative,Consult a healthcare provider
+219,Pancreatitis,No,Yes,No,No,50,Male,Low,High,Negative,Consult a healthcare provider
+220,Rheumatoid Arthritis,No,Yes,No,No,50,Female,Low,Normal,Negative,Consult a healthcare provider
+221,Sepsis,Yes,Yes,Yes,No,50,Male,Normal,Normal,Negative,Consult a healthcare provider
+222,Sleep Apnea,Yes,No,Yes,Yes,50,Male,High,High,Negative,Consult a healthcare provider
+223,Urinary Tract Infection,Yes,Yes,No,Yes,50,Male,High,Normal,Negative,Consult a healthcare provider
+224,Asthma,Yes,Yes,Yes,Yes,50,Female,Normal,High,Positive,"Inhaled Corticosteroids, Bronchodilators"
+225,Bronchitis,Yes,Yes,Yes,Yes,50,Male,High,High,Positive,Consult a healthcare provider
+226,Down Syndrome,No,No,Yes,No,50,Female,High,High,Positive,Consult a healthcare provider
+227,Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive,Consult a healthcare provider
+228,Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive,Consult a healthcare provider
+229,Eczema,No,Yes,No,No,50,Female,High,High,Positive,"Topical Corticosteroids, Emollients"
+230,Gastroenteritis,Yes,Yes,Yes,Yes,50,Female,High,Normal,Positive,Consult a healthcare provider
+231,Klinefelter Syndrome,No,No,Yes,No,50,Female,Normal,Normal,Positive,Consult a healthcare provider
+232,Liver Cancer,No,Yes,Yes,Yes,50,Male,High,High,Positive,Consult a healthcare provider
+233,Lyme Disease,Yes,No,No,No,50,Male,Normal,High,Positive,Consult a healthcare provider
+234,Lyme Disease,Yes,No,No,No,50,Male,Normal,High,Positive,Consult a healthcare provider
+235,Pancreatic Cancer,No,No,Yes,No,50,Female,High,High,Positive,Consult a healthcare provider
+236,Pneumothorax,No,No,Yes,Yes,50,Female,High,High,Positive,Consult a healthcare provider
+237,Stroke,No,Yes,Yes,Yes,50,Male,High,High,Positive,Consult a healthcare provider
+238,Ulcerative Colitis,No,Yes,Yes,No,50,Female,Normal,High,Positive,Consult a healthcare provider
+239,Hypertension,Yes,Yes,No,No,52,Male,Normal,Low,Negative,Consult a healthcare provider
+240,Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative,Consult a healthcare provider
+241,Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative,Consult a healthcare provider
+242,Appendicitis,Yes,No,Yes,No,55,Male,Normal,Normal,Negative,Consult a healthcare provider
+243,Bronchitis,No,No,Yes,Yes,55,Male,High,High,Negative,Consult a healthcare provider
+244,Bronchitis,Yes,Yes,Yes,Yes,55,Male,High,Normal,Negative,Consult a healthcare provider
+245,Common Cold,Yes,No,Yes,Yes,55,Male,Normal,Low,Negative,"Acetaminophen, Decongestants"
+246,Diabetes,No,Yes,No,No,55,Female,Normal,High,Negative,Consult a healthcare provider
+247,Esophageal Cancer,No,No,Yes,No,55,Male,Normal,Normal,Negative,Consult a healthcare provider
+248,HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative,Consult a healthcare provider
+249,HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative,Consult a healthcare provider
+250,Hypertension,No,Yes,No,No,55,Female,Normal,Low,Negative,Consult a healthcare provider
+251,Liver Disease,No,Yes,Yes,No,55,Male,High,Low,Negative,Consult a healthcare provider
+252,Marfan Syndrome,No,No,Yes,No,55,Male,High,High,Negative,Consult a healthcare provider
+253,Migraine,No,Yes,Yes,Yes,55,Female,Normal,Low,Negative,Consult a healthcare provider
+254,Osteoporosis,No,No,Yes,No,55,Male,High,Normal,Negative,Consult a healthcare provider
+255,Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative,Consult a healthcare provider
+256,Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative,Consult a healthcare provider
+257,Anxiety Disorders,Yes,Yes,No,No,55,Female,Normal,Low,Positive,Consult a healthcare provider
+258,Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive,Consult a healthcare provider
+259,Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive,Consult a healthcare provider
+260,Hemorrhoids,No,No,No,No,55,Female,High,High,Positive,Consult a healthcare provider
+261,Hypertension,Yes,No,Yes,No,55,Male,High,Normal,Positive,Consult a healthcare provider
+262,Hypothyroidism,No,No,Yes,No,55,Female,High,High,Positive,Consult a healthcare provider
+263,Osteoarthritis,Yes,Yes,No,No,55,Female,High,High,Positive,Consult a healthcare provider
+264,Osteoporosis,Yes,No,Yes,Yes,55,Male,High,Low,Positive,Consult a healthcare provider
+265,Osteoporosis,No,Yes,Yes,No,55,Female,Normal,Normal,Positive,Consult a healthcare provider
+266,Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive,Consult a healthcare provider
+267,Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive,Consult a healthcare provider
+268,Polycystic Ovary Syndrome (PCOS),Yes,Yes,No,No,55,Female,Normal,Normal,Positive,Consult a healthcare provider
+269,Systemic Lupus Erythematosus...,No,Yes,Yes,No,55,Female,High,High,Positive,Consult a healthcare provider
+270,Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive,Consult a healthcare provider
+271,Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive,Consult a healthcare provider
+272,Influenza,Yes,Yes,Yes,Yes,56,Male,High,High,Positive,Oseltamivir
+273,Pneumonia,Yes,Yes,No,Yes,57,Male,Normal,High,Negative,Consult a healthcare provider
+274,Breast Cancer,No,No,Yes,No,60,Male,High,High,Negative,Consult a healthcare provider
+275,Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative,Consult a healthcare provider
+276,Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative,Consult a healthcare provider
+277,Hyperthyroidism,No,No,Yes,No,60,Male,Normal,Normal,Negative,Consult a healthcare provider
+278,Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative,Consult a healthcare provider
+279,Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative,Consult a healthcare provider
+280,Osteoarthritis,No,Yes,No,Yes,60,Female,Normal,Normal,Negative,Consult a healthcare provider
+281,Osteomyelitis,No,No,Yes,No,60,Male,Normal,Normal,Negative,Consult a healthcare provider
+282,Osteoporosis,Yes,No,No,No,60,Male,High,High,Negative,Consult a healthcare provider
+283,Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative,Consult a healthcare provider
+284,Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative,Consult a healthcare provider
+285,Polio,Yes,Yes,Yes,No,60,Male,Normal,Normal,Negative,Consult a healthcare provider
+286,Asthma,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,"Inhaled Corticosteroids, Bronchodilators"
+287,Chronic Kidney Disease,No,No,Yes,No,60,Female,Normal,High,Positive,Consult a healthcare provider
+288,Hemophilia,No,No,Yes,No,60,Female,Normal,Normal,Positive,Consult a healthcare provider
+289,Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive,Consult a healthcare provider
+290,Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive,Consult a healthcare provider
+291,Hypertension,No,No,Yes,No,60,Female,High,Normal,Positive,Consult a healthcare provider
+292,Hypertension,Yes,No,Yes,No,60,Male,High,Normal,Positive,Consult a healthcare provider
+293,Hypertension,No,No,No,No,60,Female,High,High,Positive,Consult a healthcare provider
+294,Kidney Cancer,Yes,Yes,Yes,No,60,Female,High,Normal,Positive,Consult a healthcare provider
+295,Kidney Disease,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,Consult a healthcare provider
+296,Osteoporosis,Yes,No,Yes,No,60,Male,High,Normal,Positive,Consult a healthcare provider
+297,Pancreatitis,Yes,Yes,Yes,No,60,Female,High,Normal,Positive,Consult a healthcare provider
+298,Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive,Consult a healthcare provider
+299,Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive,Consult a healthcare provider
+300,Prader-Willi Syndrome,No,No,Yes,No,60,Female,Normal,Normal,Positive,Consult a healthcare provider
+301,Rheumatoid Arthritis,No,No,Yes,No,60,Female,High,High,Positive,Consult a healthcare provider
+302,Thyroid Cancer,No,No,Yes,No,60,Female,High,High,Positive,Consult a healthcare provider
+303,Tuberculosis,Yes,Yes,Yes,No,60,Female,High,High,Positive,Consult a healthcare provider
+304,Bladder Cancer,No,No,Yes,No,65,Male,Normal,Normal,Negative,Consult a healthcare provider
+305,Diabetes,No,No,Yes,No,65,Male,Normal,High,Negative,Consult a healthcare provider
+306,Otitis Media (Ear Infection),Yes,Yes,Yes,No,65,Male,Normal,Normal,Negative,Consult a healthcare provider
+307,Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative,Consult a healthcare provider
+308,Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative,Consult a healthcare provider
+309,Tourette Syndrome,No,No,Yes,No,65,Male,High,High,Negative,Consult a healthcare provider
+310,Urinary Tract Infection (UTI),Yes,No,Yes,No,65,Male,High,Normal,Negative,Consult a healthcare provider
+311,Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive,Consult a healthcare provider
+312,Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive,Consult a healthcare provider
+313,Alzheimer's Disease,No,No,Yes,No,65,Female,High,High,Positive,Consult a healthcare provider
+314,Bronchitis,Yes,No,Yes,Yes,65,Male,High,High,Positive,Consult a healthcare provider
+315,Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive,Consult a healthcare provider
+316,Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive,Consult a healthcare provider
+317,Dementia,No,No,Yes,No,65,Female,High,High,Positive,Consult a healthcare provider
+318,Diabetes,Yes,Yes,Yes,No,65,Female,Normal,High,Positive,Consult a healthcare provider
+319,Diverticulitis,No,No,Yes,No,65,Female,High,High,Positive,Consult a healthcare provider
+320,Liver Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,Consult a healthcare provider
+321,Lung Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,Consult a healthcare provider
+322,Lung Cancer,Yes,No,Yes,No,65,Female,Normal,High,Positive,Consult a healthcare provider
+323,Mumps,No,No,Yes,No,65,Male,Normal,High,Positive,Consult a healthcare provider
+324,Mumps,No,No,Yes,No,65,Male,Normal,High,Positive,Consult a healthcare provider
+325,Osteoporosis,No,Yes,Yes,No,65,Female,High,High,Positive,Consult a healthcare provider
+326,Stroke,Yes,Yes,Yes,No,65,Female,High,High,Positive,Consult a healthcare provider
+327,Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative,Consult a healthcare provider
+328,Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative,Consult a healthcare provider
+329,Cholecystitis,No,No,Yes,No,70,Male,Normal,Normal,Negative,Consult a healthcare provider
+330,Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative,Consult a healthcare provider
+331,Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative,Consult a healthcare provider
+332,Osteoporosis,Yes,No,No,No,70,Male,Normal,Normal,Negative,Consult a healthcare provider
+333,Parkinson's Disease,No,No,Yes,No,70,Male,Normal,Normal,Negative,Consult a healthcare provider
+334,Prostate Cancer,Yes,Yes,No,No,70,Male,High,Normal,Negative,Consult a healthcare provider
+335,Schizophrenia,No,Yes,Yes,No,70,Male,Normal,Normal,Negative,Consult a healthcare provider
+336,Gout,Yes,No,Yes,No,70,Female,Normal,High,Positive,Consult a healthcare provider
+337,Migraine,No,No,Yes,No,70,Female,Normal,Normal,Positive,Consult a healthcare provider
+338,Stroke,No,Yes,No,No,70,Male,Normal,High,Positive,Consult a healthcare provider
+339,Stroke,No,Yes,No,No,70,Male,Normal,High,Positive,Consult a healthcare provider
+340,Testicular Cancer,No,No,Yes,No,70,Female,High,High,Positive,Consult a healthcare provider
+341,Tonsillitis,Yes,Yes,Yes,No,70,Female,High,High,Positive,Consult a healthcare provider
+342,Williams Syndrome,No,No,Yes,No,70,Female,Normal,Normal,Positive,Consult a healthcare provider
+343,Stroke,Yes,No,Yes,No,80,Female,High,High,Positive,Consult a healthcare provider
+344,Stroke,Yes,No,Yes,No,80,Female,High,High,Positive,Consult a healthcare provider
+345,Stroke,Yes,No,Yes,No,85,Male,High,High,Positive,Consult a healthcare provider
+346,Stroke,Yes,No,Yes,No,85,Male,High,High,Positive,Consult a healthcare provider
+347,Stroke,Yes,No,Yes,No,90,Female,High,High,Positive,Consult a healthcare provider
+348,Stroke,Yes,No,Yes,No,90,Female,High,High,Positive,Consult a healthcare provider

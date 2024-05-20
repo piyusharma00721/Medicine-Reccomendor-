@@ -1,0 +1,350 @@
+name,age,sex,blood_group,medical_history,symptoms,duration,medicine_recommended
+0,Influenza,Yes,No,Yes,Yes,19,Female
+1,Common Cold,No,Yes,Yes,No,25,Female
+2,Eczema,No,Yes,Yes,No,25,Female
+3,Asthma,Yes,Yes,No,Yes,25,Male
+4,Asthma,Yes,Yes,No,Yes,25,Male
+5,Eczema,Yes,No,No,No,25,Female
+6,Influenza,Yes,Yes,,Yes,25,Female
+7,Influenza,Yes,Yes,Yes,Yes,25,Female
+8,Hyperthyroidism,No,Yes,No,No,28,Female
+9,Hyperthyroidism,No,Yes,No,No,28,Female
+10,Asthma,Yes,No,No,Yes,28,Male
+11,Allergic Rhinitis,No,Yes,Yes,No,29,Female
+12,Anxiety Disorders,No,Yes,No,No,29,Female
+13,Common Cold,No,No,No,No,29,Female
+14,Diabetes,No,No,No,No,29,Male
+15,Gastroenteritis,No,Yes,No,No,29,Female
+16,Pancreatitis,Yes,No,No,No,29,Female
+17,Rheumatoid Arthritis,No,Yes,Yes,Yes,29,Female
+18,Depression,Yes,Yes,Yes,Yes,29,Male
+19,Liver Cancer,Yes,Yes,Yes,Yes,29,Female
+20,Stroke,Yes,Yes,Yes,Yes,29,Female
+21,Urinary Tract Infection,Yes,Yes,Yes,No,29,Male
+22,Dengue Fever,Yes,No,Yes,No,30,Female
+23,Dengue Fever,Yes,No,Yes,No,30,Female
+24,Eczema,No,Yes,Yes,No,30,Male
+25,Gastroenteritis,Yes,Yes,Yes,No,30,Male
+26,Hepatitis,Yes,Yes,Yes,Yes,30,Male
+27,Kidney Cancer,No,No,Yes,No,30,Male
+28,Migraine,Yes,No,No,No,30,Female
+29,Migraine,No,Yes,Yes,No,30,Female
+30,Muscular Dystrophy,No,No,Yes,No,30,Male
+31,Sinusitis,No,Yes,Yes,No,30,Male
+32,Ulcerative Colitis,Yes,Yes,No,No,30,Female
+33,Ulcerative Colitis,No,Yes,Yes,No,30,Female
+34,Asthma,Yes,Yes,No,Yes,30,Female
+35,Asthma,Yes,Yes,No,Yes,30,Female
+36,Asthma,Yes,Yes,Yes,Yes,30,Female
+37,Bipolar Disorder,No,No,Yes,No,30,Female
+38,Bronchitis,Yes,Yes,No,Yes,30,Female
+39,Bronchitis,Yes,Yes,Yes,Yes,30,Male
+40,Bronchitis,Yes,Yes,Yes,Yes,30,Male
+41,Cerebral Palsy,No,No,Yes,Yes,30,Female
+42,Colorectal Cancer,No,No,Yes,No,30,Female
+43,Eczema,Yes,No,No,No,30,Male
+44,Hypertensive Heart Disease,No,No,Yes,No,30,Female
+45,Influenza,Yes,Yes,Yes,No,30,Male
+46,Influenza,Yes,Yes,Yes,Yes,30,Female
+47,Multiple Sclerosis,No,No,Yes,No,30,Female
+48,Myocardial Infarction (Heart...,Yes,Yes,Yes,Yes,30,Female
+49,Urinary Tract Infection (UTI),Yes,No,No,No,30,Female
+50,Asthma,No,No,No,Yes,31,Male
+51,Osteoporosis,No,No,No,Yes,31,Male
+52,Common Cold,Yes,No,Yes,Yes,31,Male
+53,Migraine,Yes,No,No,No,31,Female
+54,Pneumonia,Yes,No,Yes,Yes,32,Female
+55,Allergic Rhinitis,No,No,Yes,No,35,Female
+56,Asthma,No,Yes,Yes,Yes,35,Female
+57,Asthma,Yes,Yes,Yes,Yes,35,Female
+58,Asthma,No,Yes,Yes,Yes,35,Female
+59,Asthma,No,Yes,Yes,Yes,35,Female
+60,Atherosclerosis,No,No,Yes,No,35,Male
+61,Chronic Obstructive Pulmonary...,Yes,Yes,Yes,Yes,35,Male
+62,Common Cold,Yes,Yes,Yes,No,35,Male
+63,Eczema,No,Yes,No,No,35,Male
+64,Epilepsy,No,No,Yes,No,35,Male
+65,Hypertension,Yes,Yes,Yes,No,35,Female
+66,Hyperthyroidism,Yes,Yes,Yes,No,35,Female
+67,Obsessive-Compulsive Disorde...,No,No,Yes,No,35,Male
+68,Pneumonia,Yes,Yes,Yes,Yes,35,Female
+69,Pneumonia,Yes,Yes,Yes,Yes,35,Female
+70,Psoriasis,Yes,No,No,No,35,Female
+71,Psoriasis,No,Yes,Yes,No,35,Female
+72,Rubella,Yes,No,Yes,No,35,Female
+73,Rubella,Yes,No,Yes,No,35,Female
+74,Urinary Tract Infection (UTI),No,Yes,Yes,No,35,Male
+75,Asthma,Yes,Yes,No,Yes,35,Male
+76,Asthma,Yes,Yes,No,Yes,35,Male
+77,Cirrhosis,No,No,Yes,No,35,Female
+78,Conjunctivitis (Pink Eye),No,Yes,No,No,35,Female
+79,Depression,No,No,Yes,No,35,Female
+80,Gastroenteritis,Yes,No,Yes,Yes,35,Male
+81,Hyperthyroidism,Yes,Yes,Yes,No,35,Male
+82,Hyperthyroidism,Yes,Yes,Yes,No,35,Male
+83,Kidney Cancer,No,No,Yes,No,35,Male
+84,Liver Cancer,No,No,Yes,No,35,Female
+85,Liver Disease,No,No,Yes,No,35,Male
+86,Malaria,Yes,No,No,No,35,Male
+87,Malaria,Yes,No,No,No,35,Male
+88,Migraine,No,Yes,Yes,No,35,Male
+89,Migraine,Yes,No,No,No,35,Male
+90,Pancreatitis,No,No,Yes,No,35,Male
+91,Rheumatoid Arthritis,Yes,Yes,Yes,No,35,Male
+92,Rheumatoid Arthritis,No,No,Yes,No,35,Female
+93,Spina Bifida,No,No,Yes,No,35,Female
+94,Ulcerative Colitis,No,No,Yes,No,35,Male
+95,Ulcerative Colitis,Yes,No,No,No,35,Male
+96,Urinary Tract Infection,Yes,No,Yes,No,35,Female
+97,Allergic Rhinitis,No,Yes,No,No,38,Female
+98,Depression,No,No,No,No,38,Female
+99,Gastroenteritis,No,No,No,No,38,Male
+100,Influenza,No,No,No,No,38,Male
+101,Kidney Disease,No,No,Yes,No,38,Female
+102,Liver Cancer,Yes,Yes,No,No,38,Female
+103,Liver Disease,No,Yes,No,Yes,38,Male
+104,Osteoporosis,No,Yes,No,No,38,Female
+105,Stroke,Yes,Yes,No,No,38,Female
+106,Anxiety Disorders,Yes,No,Yes,Yes,38,Male
+107,Diabetes,Yes,No,Yes,Yes,38,Male
+108,Migraine,Yes,Yes,No,No,38,Male
+109,Osteoarthritis,Yes,Yes,Yes,No,38,Male
+110,Pneumonia,Yes,Yes,Yes,Yes,38,Male
+111,Klinefelter Syndrome,No,No,Yes,No,39,Female
+112,Acne,No,No,Yes,No,40,Male
+113,Brain Tumor,No,No,Yes,No,40,Male
+114,Bronchitis,No,Yes,No,Yes,40,Female
+115,Cystic Fibrosis,No,No,Yes,Yes,40,Male
+116,Diabetes,Yes,No,No,No,40,Female
+117,Glaucoma,No,No,Yes,No,40,Male
+118,Osteoarthritis,No,No,Yes,No,40,Male
+119,Rabies,Yes,Yes,No,No,40,Female
+120,Rabies,Yes,Yes,No,No,40,Female
+121,Asthma,Yes,No,Yes,No,40,Male
+122,Asthma,Yes,Yes,No,Yes,40,Female
+123,Asthma,Yes,Yes,No,Yes,40,Female
+124,Asthma,No,No,Yes,Yes,40,Male
+125,Asthma,Yes,No,Yes,Yes,40,Male
+126,Asthma,Yes,No,Yes,Yes,40,Male
+127,Chickenpox,No,Yes,No,No,40,Male
+128,Chickenpox,No,Yes,No,No,40,Male
+129,Coronary Artery Disease,No,No,Yes,No,40,Female
+130,"Eating Disorders (Anorexia,...",No,No,Yes,No,40,Female
+131,Fibromyalgia,No,No,Yes,No,40,Female
+132,Gastroenteritis,Yes,Yes,Yes,No,40,Male
+133,Hemophilia,No,No,Yes,No,40,Female
+134,Hyperthyroidism,No,No,Yes,No,40,Male
+135,Hypoglycemia,No,No,Yes,No,40,Female
+136,Lymphoma,No,Yes,No,No,40,Female
+137,Pneumonia,Yes,Yes,Yes,Yes,40,Female
+138,Psoriasis,No,Yes,Yes,No,40,Male
+139,Psoriasis,Yes,No,No,No,40,Male
+140,Psoriasis,No,Yes,No,No,40,Female
+141,Tuberculosis,Yes,Yes,Yes,Yes,40,Male
+142,Tuberculosis,Yes,Yes,Yes,Yes,40,Male
+143,Anxiety Disorders,No,No,No,No,42,Male
+144,Common Cold,Yes,Yes,No,No,42,Female
+145,Depression,Yes,No,No,Yes,42,Male
+146,Influenza,No,Yes,No,No,42,Female
+147,Kidney Cancer,Yes,No,No,No,42,Female
+148,Liver Cancer,Yes,No,Yes,Yes,42,Male
+149,Liver Disease,Yes,No,No,Yes,42,Female
+150,Lung Cancer,Yes,No,Yes,Yes,42,Male
+151,Migraine,Yes,Yes,Yes,No,42,Male
+152,Osteoarthritis,No,No,Yes,No,42,Male
+153,Stroke,Yes,No,Yes,No,42,Male
+154,Urinary Tract Infection,No,Yes,Yes,Yes,42,Female
+155,Diabetes,Yes,Yes,Yes,No,42,Male
+156,Hypothyroidism,Yes,Yes,Yes,No,42,Female
+157,Hypothyroidism,Yes,Yes,Yes,No,42,Female
+158,Kidney Disease,Yes,No,Yes,No,42,Female
+159,Pneumonia,No,Yes,Yes,Yes,43,Female
+160,Allergic Rhinitis,No,Yes,Yes,No,45,Male
+161,Autism Spectrum Disorder (ASD),No,No,Yes,No,45,Male
+162,Crohn's Disease,Yes,No,Yes,No,45,Male
+163,Hepatitis,Yes,No,Yes,No,45,Female
+164,Hepatitis,Yes,No,Yes,No,45,Female
+165,Hyperglycemia,No,No,Yes,No,45,Male
+166,Kidney Cancer,No,Yes,Yes,Yes,45,Male
+167,Kidney Disease,Yes,Yes,No,No,45,Male
+168,Melanoma,Yes,No,Yes,No,45,Male
+169,Migraine,No,No,No,No,45,Female
+170,Ovarian Cancer,No,No,Yes,No,45,Male
+171,Pancreatitis,No,Yes,Yes,Yes,45,Male
+172,Rheumatoid Arthritis,Yes,No,No,No,45,Male
+173,Stroke,No,No,Yes,No,45,Male
+174,Turner Syndrome,No,No,Yes,No,45,Male
+175,Turner Syndrome,No,No,Yes,No,45,Male
+176,Urinary Tract Infection,No,No,No,No,45,Female
+177,Zika Virus,No,Yes,Yes,No,45,Female
+178,Zika Virus,No,Yes,Yes,No,45,Female
+179,Allergic Rhinitis,Yes,Yes,Yes,No,45,Male
+180,Anxiety Disorders,Yes,Yes,Yes,No,45,Male
+181,Asthma,Yes,Yes,No,Yes,45,Male
+182,Asthma,Yes,Yes,No,Yes,45,Male
+183,Cataracts,No,No,Yes,No,45,Female
+184,Crohn's Disease,No,No,Yes,No,45,Female
+185,Crohn's Disease,Yes,Yes,Yes,No,45,Female
+186,Depression,No,No,Yes,No,45,Female
+187,Diabetes,Yes,No,Yes,No,45,Female
+188,Diabetes,No,Yes,Yes,No,45,Male
+189,Hypertension,Yes,No,Yes,No,45,Male
+190,Hypothyroidism,No,No,Yes,No,45,Female
+191,Liver Disease,Yes,Yes,Yes,No,45,Female
+192,Multiple Sclerosis,Yes,No,No,No,45,Female
+193,Multiple Sclerosis,Yes,No,No,No,45,Female
+194,Osteoarthritis,Yes,No,Yes,Yes,45,Male
+195,Osteoporosis,Yes,Yes,Yes,No,45,Female
+196,Pneumocystis Pneumonia (PCP),Yes,Yes,Yes,No,45,Female
+197,Pneumonia,Yes,Yes,Yes,Yes,45,Male
+198,Scoliosis,No,No,No,No,45,Female
+199,Sickle Cell Anemia,No,No,Yes,No,45,Female
+200,Tetanus,No,No,Yes,No,45,Male
+201,Tetanus,No,No,Yes,No,45,Male
+202,Hypertension,No,No,No,No,48,Female
+203,Hypothyroidism,No,No,Yes,No,48,Male
+204,Hypothyroidism,No,No,Yes,No,48,Male
+205,Allergic Rhinitis,Yes,No,No,No,50,Male
+206,Anemia,No,No,Yes,No,50,Male
+207,Anxiety Disorders,No,No,Yes,No,50,Male
+208,Cholera,Yes,No,Yes,Yes,50,Female
+209,Cholera,Yes,No,Yes,Yes,50,Female
+210,Crohn's Disease,Yes,Yes,Yes,No,50,Male
+211,Crohn's Disease,No,No,Yes,No,50,Male
+212,Depression,No,Yes,Yes,No,50,Female
+213,Diabetes,No,Yes,No,No,50,Male
+214,Endometriosis,Yes,No,No,No,50,Male
+215,Hypertension,No,Yes,No,No,50,Female
+216,Hypothyroidism,Yes,Yes,Yes,No,50,Male
+217,Kidney Cancer,No,Yes,No,No,50,Male
+218,Kidney Disease,No,Yes,No,Yes,50,Male
+219,Pancreatitis,No,Yes,No,No,50,Male
+220,Rheumatoid Arthritis,No,Yes,No,No,50,Female
+221,Sepsis,Yes,Yes,Yes,No,50,Male
+222,Sleep Apnea,Yes,No,Yes,Yes,50,Male
+223,Urinary Tract Infection,Yes,Yes,No,Yes,50,Male
+224,Asthma,Yes,Yes,Yes,Yes,50,Female
+225,Bronchitis,Yes,Yes,Yes,Yes,50,Male
+226,Down Syndrome,No,No,Yes,No,50,Female
+227,Ebola Virus,Yes,Yes,Yes,Yes,50,Male
+228,Ebola Virus,Yes,Yes,Yes,Yes,50,Male
+229,Eczema,No,Yes,No,No,50,Female
+230,Gastroenteritis,Yes,Yes,Yes,Yes,50,Female
+231,Klinefelter Syndrome,No,No,Yes,No,50,Female
+232,Liver Cancer,No,Yes,Yes,Yes,50,Male
+233,Lyme Disease,Yes,No,No,No,50,Male
+234,Lyme Disease,Yes,No,No,No,50,Male
+235,Pancreatic Cancer,No,No,Yes,No,50,Female
+236,Pneumothorax,No,No,Yes,Yes,50,Female
+237,Stroke,No,Yes,Yes,Yes,50,Male
+238,Ulcerative Colitis,No,Yes,Yes,No,50,Female
+239,Hypertension,Yes,Yes,No,No,52,Male
+240,Multiple Sclerosis,No,Yes,Yes,No,52,Male
+241,Multiple Sclerosis,No,Yes,Yes,No,52,Male
+242,Appendicitis,Yes,No,Yes,No,55,Male
+243,Bronchitis,No,No,Yes,Yes,55,Male
+244,Bronchitis,Yes,Yes,Yes,Yes,55,Male
+245,Common Cold,Yes,No,Yes,Yes,55,Male
+246,Diabetes,No,Yes,No,No,55,Female
+247,Esophageal Cancer,No,No,Yes,No,55,Male
+248,HIV/AIDS,Yes,No,No,No,55,Female
+249,HIV/AIDS,Yes,No,No,No,55,Female
+250,Hypertension,No,Yes,No,No,55,Female
+251,Liver Disease,No,Yes,Yes,No,55,Male
+252,Marfan Syndrome,No,No,Yes,No,55,Male
+253,Migraine,No,Yes,Yes,Yes,55,Female
+254,Osteoporosis,No,No,Yes,No,55,Male
+255,Parkinson's Disease,No,No,Yes,No,55,Female
+256,Parkinson's Disease,No,No,Yes,No,55,Female
+257,Anxiety Disorders,Yes,Yes,No,No,55,Female
+258,Coronary Artery Disease,No,No,Yes,No,55,Female
+259,Coronary Artery Disease,No,No,Yes,No,55,Female
+260,Hemorrhoids,No,No,No,No,55,Female
+261,Hypertension,Yes,No,Yes,No,55,Male
+262,Hypothyroidism,No,No,Yes,No,55,Female
+263,Osteoarthritis,Yes,Yes,No,No,55,Female
+264,Osteoporosis,Yes,No,Yes,Yes,55,Male
+265,Osteoporosis,No,Yes,Yes,No,55,Female
+266,Osteoporosis,Yes,No,Yes,No,55,Female
+267,Osteoporosis,Yes,No,Yes,No,55,Female
+268,Polycystic Ovary Syndrome (PCOS),Yes,Yes,No,No,55,Female
+269,Systemic Lupus Erythematosus...,No,Yes,Yes,No,55,Female
+270,Typhoid Fever,No,Yes,No,No,55,Male
+271,Typhoid Fever,No,Yes,No,No,55,Male
+272,Influenza,Yes,Yes,Yes,Yes,56,Male
+273,Pneumonia,Yes,Yes,No,Yes,57,Male
+274,Breast Cancer,No,No,Yes,No,60,Male
+275,Coronary Artery Disease,Yes,Yes,No,No,60,Male
+276,Coronary Artery Disease,Yes,Yes,No,No,60,Male
+277,Hyperthyroidism,No,No,Yes,No,60,Male
+278,Measles,Yes,Yes,No,No,60,Female
+279,Measles,Yes,Yes,No,No,60,Female
+280,Osteoarthritis,No,Yes,No,Yes,60,Female
+281,Osteomyelitis,No,No,Yes,No,60,Male
+282,Osteoporosis,Yes,No,No,No,60,Male
+283,Osteoporosis,No,Yes,No,No,60,Male
+284,Osteoporosis,No,Yes,No,No,60,Male
+285,Polio,Yes,Yes,Yes,No,60,Male
+286,Asthma,Yes,Yes,Yes,Yes,60,Female
+287,Chronic Kidney Disease,No,No,Yes,No,60,Female
+288,Hemophilia,No,No,Yes,No,60,Female
+289,Hepatitis B,No,Yes,Yes,No,60,Male
+290,Hepatitis B,No,Yes,Yes,No,60,Male
+291,Hypertension,No,No,Yes,No,60,Female
+292,Hypertension,Yes,No,Yes,No,60,Male
+293,Hypertension,No,No,No,No,60,Female
+294,Kidney Cancer,Yes,Yes,Yes,No,60,Female
+295,Kidney Disease,Yes,Yes,Yes,Yes,60,Female
+296,Osteoporosis,Yes,No,Yes,No,60,Male
+297,Pancreatitis,Yes,Yes,Yes,No,60,Female
+298,Parkinson's Disease,Yes,Yes,No,No,60,Male
+299,Parkinson's Disease,Yes,Yes,No,No,60,Male
+300,Prader-Willi Syndrome,No,No,Yes,No,60,Female
+301,Rheumatoid Arthritis,No,No,Yes,No,60,Female
+302,Thyroid Cancer,No,No,Yes,No,60,Female
+303,Tuberculosis,Yes,Yes,Yes,No,60,Female
+304,Bladder Cancer,No,No,Yes,No,65,Male
+305,Diabetes,No,No,Yes,No,65,Male
+306,Otitis Media (Ear Infection),Yes,Yes,Yes,No,65,Male
+307,Stroke,Yes,No,Yes,No,65,Female
+308,Stroke,Yes,No,Yes,No,65,Female
+309,Tourette Syndrome,No,No,Yes,No,65,Male
+310,Urinary Tract Infection (UTI),Yes,No,Yes,No,65,Male
+311,Alzheimer's Disease,No,Yes,No,No,65,Male
+312,Alzheimer's Disease,No,Yes,No,No,65,Male
+313,Alzheimer's Disease,No,No,Yes,No,65,Female
+314,Bronchitis,Yes,No,Yes,Yes,65,Male
+315,Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female
+316,Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female
+317,Dementia,No,No,Yes,No,65,Female
+318,Diabetes,Yes,Yes,Yes,No,65,Female
+319,Diverticulitis,No,No,Yes,No,65,Female
+320,Liver Cancer,Yes,Yes,Yes,No,65,Female
+321,Lung Cancer,Yes,Yes,Yes,No,65,Female
+322,Lung Cancer,Yes,No,Yes,No,65,Female
+323,Mumps,No,No,Yes,No,65,Male
+324,Mumps,No,No,Yes,No,65,Male
+325,Osteoporosis,No,Yes,Yes,No,65,Female
+326,Stroke,Yes,Yes,Yes,No,65,Female
+327,Alzheimer's Disease,Yes,No,Yes,No,70,Female
+328,Alzheimer's Disease,Yes,No,Yes,No,70,Female
+329,Cholecystitis,No,No,Yes,No,70,Male
+330,Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male
+331,Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male
+332,Osteoporosis,Yes,No,No,No,70,Male
+333,Parkinson's Disease,No,No,Yes,No,70,Male
+334,Prostate Cancer,Yes,Yes,No,No,70,Male
+335,Schizophrenia,No,Yes,Yes,No,70,Male
+336,Gout,Yes,No,Yes,No,70,Female
+337,Migraine,No,No,Yes,No,70,Female
+338,Stroke,No,Yes,No,No,70,Male
+339,Stroke,No,Yes,No,No,70,Male
+340,Testicular Cancer,No,No,Yes,No,70,Female
+341,Tonsillitis,Yes,Yes,Yes,No,70,Female
+342,Williams Syndrome,No,No,Yes,No,70,Female
+343,Stroke,Yes,No,Yes,No,80,Female
+344,Stroke,Yes,No,Yes,No,80,Female
+345,Stroke,Yes,No,Yes,No,85,Male
+346,Stroke,Yes,No,Yes,No,85,Male
+347,Stroke,Yes,No,Yes,No,90,Female
+348,Stroke,Yes,No,Yes,No,90,Female
